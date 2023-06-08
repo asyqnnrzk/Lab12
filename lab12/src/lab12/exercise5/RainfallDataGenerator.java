@@ -1,4 +1,4 @@
-package exercise5.lab12;
+package lab12.exercise5;
 
 import java.io.DataOutputStream;
 import java.io.FileOutputStream;
